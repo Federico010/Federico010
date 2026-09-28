@@ -15,3 +15,12 @@ M.Sc. student in Artificial Intelligence and Robotics at Sapienza University of 
 
 RGB-D and stereo perception · State estimation · Motion planning and control · Autonomous navigation  
 ROS 2 · Python · C++ · Gazebo/Ignition · Nav2
+
+## Selected Repositories
+
+- [GRASP](https://github.com/Federico010/GRASP) (private)
+- [Franka ROS 2 · thesis branch](https://github.com/MattiaCastelmare/franka_ros2/tree/tesi_federico_urbini)
+- [TIAGo · HRAI](https://github.com/Lab-RoCoCo-Sapienza/course-project-of-hrai-25-26-spacebots) (private)
+- [Road obstacle detection](https://github.com/PulsiP/CV_PR11_road_obstacle_identification)
+- [CollRob](https://github.com/DaniPet02/CollRob) (private)
+- [Hypercomplex neural networks](https://github.com/DaniPet02/nn-hw)
